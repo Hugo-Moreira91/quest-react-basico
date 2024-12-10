@@ -1,0 +1,13 @@
+.text-container {
+    background-color: coral;
+    max-width: 30rem;
+    padding: 1rem;
+    margin: 1rem auto;
+    border-radius: .5rem;
+    box-shadow: .25rem .25rem .5rem hsl(0, 0%, 0%, .15);
+}
+
+.paragraph {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
